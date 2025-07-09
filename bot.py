@@ -3,8 +3,8 @@ import schedule
 import time
 import random
 
-TOKEN = 'توکن_ربات_تو'
-CHANNEL_ID = '@YourChannel'
+TOKEN = '8098046623:AAH1-JDAj4go2PdpZEQDXj5ytYKg8unV3RQ'
+CHANNEL_ID = '@beermudaa'
 
 bot = Bot(token=TOKEN)
 
